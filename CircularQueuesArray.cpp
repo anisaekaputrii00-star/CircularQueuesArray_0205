@@ -15,4 +15,12 @@ class Queues
             REAR = -1;
         }
 
+        void insert()
+        {
+            int num;
+            cout << "Enter a memeber: ";
+            cin >> num;
+            cout << endl;
+
+        }
     }
